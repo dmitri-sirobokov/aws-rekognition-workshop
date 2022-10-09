@@ -1,0 +1,1 @@
+aws rekognition  detect-labels --image "{\"S3Object\":{\"Bucket\": \"rekognition-ninjava-unconference\", \"Name\": \"cat.jpg\"}}" --region eu-central-1
