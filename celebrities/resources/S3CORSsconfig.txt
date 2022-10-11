@@ -1,0 +1,13 @@
+[
+    {
+        "AllowedOrigins": ["*"],
+        "AllowedHeaders": ["*"],
+        "AllowedMethods": [
+            "POST",
+            "GET",
+            "PUT",
+            "DELETE",
+            "HEAD"
+        ]
+    }
+]
